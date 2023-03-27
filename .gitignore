@@ -1,0 +1,3 @@
+target/*
+!target/practica_2_KiloCalorias-1.0-SNAPSHOT.war
+nb-configuration.xml
